@@ -1,3 +1,5 @@
+![max-big-1-small-height](https://github.com/mikedanzon/mikedanzon/assets/60975328/d91b1184-fe16-45d3-90e8-0e3fdc2b9734)
+
 ## Hey! 👋
 <p>I'm Michael Max, a 28 years old web developer from Indonesia.</p>
 <p>Currently looking for work as Software Engineer / Website Developer (Full Stack, Front End, Back End).</p>
