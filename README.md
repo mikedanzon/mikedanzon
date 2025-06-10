@@ -21,7 +21,7 @@
 <img src="https://github.com/mikedanzon/maxdanzon/assets/60975328/3fd6bd9a-d003-48ef-ae97-1daca1651e56" alt="git" width="40" height="40" />
 
 ## Contact
-- [My Personal Website](https://maxdanzon.com)
+- [My Personal Website](https://mikedanzon.com)
 - [My LinkedIn](https://linkedin.com/in/mikedanzon)
 - [My Instagram](https://instagram.com/mikedanzon)
 
